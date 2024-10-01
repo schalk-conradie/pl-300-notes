@@ -1,0 +1,27 @@
+What are the 5 categories of data analysis?,"Descriptive, Diagnostic, Predictive, Prescriptive, Cognitive"
+What does descriptive analysis do?,"Summarizes past data (e.g., total sales last quarter)"
+What is the purpose of diagnostic analysis?,"Explains past data (e.g., why sales dropped in a region)"
+What does predictive analysis aim to do?,"Forecasts future data (e.g., predicting future sales trends)"
+How is prescriptive analysis used?,"To optimize future outcomes (e.g., identifying optimal pricing)"
+What is cognitive analysis?,"Learning from data (e.g., analyzing customer feedback sentiment)"
+What is the role of a business analyst?,Translates business needs into data requirements
+What are the main responsibilities of a data analyst?,"Gathering, cleaning, transforming, modeling, and visualizing data"
+What does a data engineer focus on?,"Building and maintaining data infrastructure (databases, pipelines)"
+What type of analysis does a data scientist typically perform?,Advanced statistical and machine learning analysis
+What is the primary role of a database administrator?,Managing and maintaining databases
+"What are the 3 main steps in the ""Prepare"" phase of data analysis?","Get data, clean and transform, load"
+How do you get data in Power BI?,"Connect to data sources (Excel, databases, online services)"
+What tool is used to clean and transform data in Power BI?,Power Query Editor
+Where is prepared data loaded in Power BI?,Into the Power BI data model
+"What is the goal of the ""Model"" phase?",To create a data model that accurately represents relationships between datasets
+What type of schema is often used in data modeling?,Star schema (fact and dimension tables)
+How are relationships defined between tables in Power BI?,Using primary and foreign keys
+What language is used for calculations in Power BI?,DAX (Data Analysis Expressions)
+What are DAX calculations used for?,"Creating calculated columns, measures, and tables"
+"What is the purpose of the ""Visualize"" phase?",To choose appropriate visualizations to represent data and insights
+What are some examples of visualizations in Power BI?,"Charts, graphs, maps"
+How can you make visualizations interactive in Power BI?,"Add slicers, filters, drill-downs"
+"What are the 3 main aspects of the ""Analyze"" phase?","Explore data, extract insights, tell a story"
+"What is the ""Manage"" phase concerned with?","Managing datasets, workspaces, and deployment of reports"
+What are the key components of a semantic model in Power BI?,"Connected data, transformations, relationships, calculations"
+What are some ways to enhance visualizations in Power BI?,"Customization (formatting, colors, etc.) and interactivity"
